@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <pertama>Fikri</pertama>
+        <kedua>Halim</kedua>
+        <ketiga>Ch</ketiga>
+    </nama>
+    <gender>Pria</gender>
+    <hobi>
+        <kegiatan1>diskusi bermanfaat</kegiatan1>
+        <kegiatan2>explore alam</kegiatan2>
+    </hobi>
+    <alamat>
+        <jalan>Jl Raya cepit</jalan>
+        <kecamatan>cilodong</kecamatan>
+        <kota>depok</kota>
+    </alamat>
+    <socialMedia>
+        <line>fkrhc</line>
+        <instagram>fikrihalimch</instagram>
+    </socialMedia>
+</dataDiri>
